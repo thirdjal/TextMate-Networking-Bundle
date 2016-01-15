@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>wbua.ynjerapr@zr.pbz</string>
+	<key>contactName</key>
+	<string>John Lawrence</string>
+	<key>description</key>
+	<string>Markup for the configuration of network infrastructure devices that conform to or mimic Cisco&apos;s IOS syntax.</string>
+	<key>name</key>
+	<string>Network Device</string>
+	<key>uuid</key>
+	<string>4D09023D-4ECB-4737-AABE-87A92EF3ABAF</string>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array/>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>

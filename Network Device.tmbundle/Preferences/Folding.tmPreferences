@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Folding</string>
+	<key>settings</key>
+	<dict>
+		<key>foldingIndentedBlockStart</key>
+		<string>((^(interface|router (rip|igrp|eigrp|ospf|bgp|isis)|ip(v6)? (access-list (standard|extended)|ddns update method|dhcp pool|flow-top-talkers)|(lacp-)?trunk \d|crypto (isakmp|ipsec|pki)|vlan \d|line |ephone-dn |ephone |route-map|class-map|policy-map|object-group|archive|health monitor|slb (server|service-group|template|virtual-server)|dial-peer|dspfarm profile|ephone(-dn)?(-template)?|sccp ccm|sip-ua|telephony-service|voice-card|voice-port|voice (call|cause-code|class|disc-pi-incoming-on|dnis-map|dsp|emergency|enum-match-table|hpi|hunt|hunt-group|iec|logout-profile|lpcor|mlpp|moh-group|persistent-storage|register|rtp|service|source-group|statistics|translation-profile|translation-rule|user-profile|vad-time|vrf)))|\s+(port \d+\s+(http|radius|tcp|udp)))</string>
+	</dict>
+	<key>uuid</key>
+	<string>8D0D8AC0-49D7-4C63-98C3-0F33D1EF2FBB</string>
+</dict>
+</plist>
